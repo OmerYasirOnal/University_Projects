@@ -1,4 +1,35 @@
 # School_Projects
+Laboratory Experiment Material Management System
+This project is a laboratory experiment material management application, developed using Java Swing and Netbeans. It allows users to manage their laboratory experiment materials effectively, add new materials, and create and manage experiments.
+
+Contents
+The project consists of three main parts: DataBases, Pages, and Classes.
+
+DataBases
+Stores the information in databases.
+
+ExperimentDB: Details of experiments are stored in this database.
+MaterialDB: Details of the materials used are stored here.
+UserDB: User information is stored in this database.
+Pages
+Contains the user interface of the application.
+
+StartPage: The main page of the application.
+LoginPage and SingupPage: Pages where users can log in and create new accounts.
+MaterialPage and MaterialAddingPage: Pages where materials are listed and new materials are added.
+ExperimentCreatingPage and ExperimentsPage: Pages where experiments are created and listed.
+Classes
+Contains the business logic of the project.
+
+Main: The starting point of the application.
+User: Represents the users.
+Material: Represents the experiment materials.
+Experiment: Represents the experiments.
+Installation
+To run the project, first clone or download the repository. Then, open and run it on Netbeans IDE. Before running the project, make sure your database is properly set up and all necessary dependencies are installed.
+
+License
+This project is licensed under the MIT license. For more details, see the LICENSE file.
 
 
 Project-2
