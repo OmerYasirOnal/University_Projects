@@ -1,0 +1,3 @@
+rıza@mail.com,rıza,Rıza1234
+ahmet@mail.com,ahmet,Ahmet1234
+asd@asd.com,asd,Asd1234

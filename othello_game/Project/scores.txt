@@ -1,0 +1,5 @@
+ahmet: 22
+rıza: 3
+asd: 16
+rıza: 9
+rıza: 21
